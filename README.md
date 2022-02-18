@@ -1,6 +1,6 @@
 # YrkesProv
 Repo för unity game developers
-![Repository Banner](headerimage.png)
+![Repository Banner](HeaderImage.jfif)
 
 ## Table of Contents
 

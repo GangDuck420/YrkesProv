@@ -3,9 +3,9 @@
 
 ![Repository Banner](HeaderImage.jfif)
 
-## Table of Contents
+## Innehåll
 
-- [UI Graphics](#ui-graphics)
-- [Fonts](#fonts)
-- [Colors](#colors)
+- [Unity Tutorials](#unity-tutorials)
+- [Gratis Assets](#Gratis-assets)
+- [Communities](#communities)
 - [Icons](#icons)

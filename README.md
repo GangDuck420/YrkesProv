@@ -5,15 +5,15 @@
 
 ## Innehåll
 
-- [Youtube Tutorials](#unity-tutorials)
+- [Youtube Tutorials](#Youtube-tutorials)
 - [Gratis Assets](#Gratis-assets)
 - [Communities](#communities)
 - [Icons](#icons)
 
 
-## Unity/C# Tutorials
+## Youtube Tutorials
 
->Youtube tutorials för att hjälpa komma igång med unity!
+>Youtube tutorials för att lära dig unity och C#!
 
 
 | Video  | Beskrivning |

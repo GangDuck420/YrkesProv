@@ -11,6 +11,8 @@
 - [Ikoner](#Ikoner)
 - [Fonter](#Fonter)
 - [Ljud](#Ljud)
+- [Pixel Art & verktyg](#Pixel Art & verktyg)
+- [Textures & Tiles](#Textures & Tiles)
 
 
 ## Youtube Tutorials
@@ -42,7 +44,7 @@
 ## Samhällen
 >Samhällen för unity Developers
 
-| Assets  | Beskrivning |
+| Samhällen  | Beskrivning |
 | ------------- | ------------- |
 |[Official Unity Discord](https://discord.com/invite/unity)| Unitys officiella Discord server! Servern har 75tusen members och är full med olika kanaler där du kan få hjälp med dina unity problem/ projekt!
 |[Learn Unity](https://discord.com/invite/zryvRDtWCe)| Learn Unity är en discord server gjord för att lära dig unity!
@@ -51,10 +53,10 @@
 |[Unity2D](https://www.reddit.com/r/Unity2D/)|Unity2D reddit är en reddit sida för Unitys2D developers! Där hittar du nyheter, projekt och samtal om 2D unity!
 
 
-## Icons
+## Ikoner
 >Sidor/appar för att hitta Icons
 
-| Assets  | Beskrivning |
+| Ikoner  | Beskrivning |
 | ------------- | ------------- |
 |[Hotpot](https://hotpot.ai/free-icons)| Hotpot förenklar grafisk design. Anpassa 5 000+ ikoner från Material Design, Feather Icons och Hotpot-communityt.
 |[Google Fonts](https://fonts.google.com/icons?selected=Material+Icons)|Google fonts har alla google ikoner och mera! Materialikonerna finns i fem olika stilar och en rad nedladdningsbara storlekar och tätheter.
@@ -63,10 +65,10 @@
 |[]()|
 
 
-## Fonts
+## Fonter
 >Olika fonter som kan vara bra att ha som en developer.
 
-| Assets  | Beskrivning |
+| Fonter  | Beskrivning |
 | ------------- | ------------- |
 |[Google Fonts](https://fonts.google.com/)| Google fonts erbjuder på 1359 olika font familjer.
 |[Dafont](https://www.dafont.com/mtheme.php?id=8)| Dafont har många olika slags fonter och webbsidan är lätt att använda för att hitta sådana fonter som man vill ha.
@@ -78,7 +80,7 @@
 ## Ljud
 >Ljudeffekter och andra ljud för dina spel!
 
-| Assets  | Beskrivning |
+| Webbsidor  | Beskrivning |
 | ------------- | ------------- |
 |[Myinstants](https://www.myinstants.com/instant/windows-error-noise-6671/)| Myinstants har massor med olika "sound buttons" med ljudeffekter som går att ladda ner.
 |[Freesound](https://freesound.org/)|Freesounds är en webbsida dit man kan uploada och ladda ner ljudeffekter och ljud. 
@@ -86,4 +88,20 @@
 |[Zapsplat](https://www.zapsplat.com/)| Zapsplat erbjuder över 100tusen gratis ljudeffekter.
 |[Gamesounds](https://gamesounds.xyz/)| Gamesounds erbjuder massor med olika "spel-ljudeffekter" som kan vara väldigt bra för dina unity spel!!
 
-## 
+## Textures & Tiles
+| Webbsidor  | Beskrivning |
+| ------------- | ------------- |
+|[Textures.com](https://www.textures.com/)|Textures.com erbjuder 3D Texturer.
+|[Gametextures](https://gametextures.com/shop?order=new&s=)|Gametextures massor med texturer för dina spel.
+|[Quixel](https://quixel.com/megascans/home)| Quixel erbjuder på många slags 3D assets och andra texturer, väldgit bra för game development.
+|[Free Seamless Textures](https://sites.google.com/site/freeseamlesstextures/home)| Free Seamless textures erbjuder GRatis och realistiska texturer för dina spel.
+|[Reinerstilesets](https://www.reinerstilesets.de/graphics/texturen/bark/)| Denna sida erbjuder massor med olikaslags objekt och andra grafiska fina strukturer för dina spel.
+
+## Pixel Art & verktyg
+| Verktyg  | Beskrivning |
+| ------------- | ------------- |
+|[Aseprite](https://www.aseprite.org/)| Aseprite är det besta verktyget för att laga ditt eget pixelart.
+|[Pikselapp](https://www.piskelapp.com/)| Pikselapp är en gratis online pixelart editor.
+|[Deviantart](https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453)| 420 gratis fina RPG pixelart ikoner.
+|[Grafx2](http://grafx2.chez.com/index.php?static3/downloads)| Grafx2 är ett väldigt simpelt pixelart verktyg, det är dessutom gratis!
+|[pixilart](https://www.pixilart.com/)| Pixilart är en sida för gratis pixel art.

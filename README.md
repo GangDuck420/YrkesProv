@@ -8,7 +8,9 @@
 - [Youtube Tutorials](#Youtube-tutorials)
 - [Gratis Assets](#Gratis-assets)
 - [Samhällen](#Samhällen)
-- [Icons](#icons)
+- [Ikoner](#Ikoner)
+- [Fonter](#Fonter)
+- [Ljud](#Ljud)
 
 
 ## Youtube Tutorials
@@ -73,13 +75,15 @@
 |[Best free fonts](https://muffingroup.com/blog/best-free-fonts/)| Här hittar du bra tips på olika slags fonter som du kan välja att använda.
 
 
-## Samhällen
->Samhällen för unity Developers
+## Ljud
+>Ljudeffekter och andra ljud för dina spel!
 
 | Assets  | Beskrivning |
 | ------------- | ------------- |
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Myinstants](https://www.myinstants.com/instant/windows-error-noise-6671/)| Myinstants har massor med olika "sound buttons" med ljudeffekter som går att ladda ner.
+|[Freesound](https://freesound.org/)|Freesounds är en webbsida dit man kan uploada och ladda ner ljudeffekter och ljud. 
+|[FreeSFX](https://www.freesfx.co.uk/)|FreeSFX erbjuder Mer än 4 500 individuella ljudeffektfiler, alla helt katalogiserade så att du kan söka eller bläddra igenom våra ljudeffektkategorier för att hitta det du behöver. De håller fortfarande på att lägga till nya ljud till sajten varje månad.
+|[Zapsplat](https://www.zapsplat.com/)| Zapsplat erbjuder över 100tusen gratis ljudeffekter.
+|[Gamesounds](https://gamesounds.xyz/)| Gamesounds erbjuder massor med olika "spel-ljudeffekter" som kan vara väldigt bra för dina unity spel!!
+
+## 

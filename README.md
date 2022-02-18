@@ -49,28 +49,28 @@
 |[Unity2D](https://www.reddit.com/r/Unity2D/)|Unity2D reddit är en reddit sida för Unitys2D developers! Där hittar du nyheter, projekt och samtal om 2D unity!
 
 
-## Samhällen
->Olika slags Samhällen för unity Developers.
+## Icons
+>Sidor/appar för att hitta Icons
 
 | Assets  | Beskrivning |
 | ------------- | ------------- |
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Hotpot](https://hotpot.ai/free-icons)| Hotpot förenklar grafisk design. Anpassa 5 000+ ikoner från Material Design, Feather Icons och Hotpot-communityt.
+|[Google Fonts](https://fonts.google.com/icons?selected=Material+Icons)|Google fonts har alla google ikoner och mera! Materialikonerna finns i fem olika stilar och en rad nedladdningsbara storlekar och tätheter.
+|[Game Icons](https://game-icons.net/)| Gameicons erbjuder på över 4000 gratis ikoner. Alla bilder är nedladdningsbara i ett vektorformat, så att du enkelt kan justera färger, rotera, justera effekter som oskärpa, avfasningar eller skuggor och lägga till märken.
+|[Flaticon](https://www.flaticon.com/)| Flaticon ger dig tillgång till +6,6 miljoner vektorikoner och klistermärken
 |[]()|
 
 
-## Samhällen
->Samhällen för unity Developers
+## Fonts
+>Olika fonter som kan vara bra att ha som en developer.
 
 | Assets  | Beskrivning |
 | ------------- | ------------- |
-|[]()|
-|[]()|
-|[]()|
-|[]()|
-|[]()|
+|[Google Fonts](https://fonts.google.com/)| Google fonts erbjuder på 1359 olika font familjer.
+|[Dafont](https://www.dafont.com/mtheme.php?id=8)| Dafont har många olika slags fonter och webbsidan är lätt att använda för att hitta sådana fonter som man vill ha.
+|[FontLibrary](https://fontlibrary.org/)| Fontlibrary har en väldigt simpel sida för att hitta och ladda ner fonter.
+|[Cooltext](https://cooltext.com/)| Cool Text är ett bra val om du behöver en imponerande logotyp utan en massa designarbete. Välj helt enkelt vilken typ av bild du vill ha. Fyll sedan i ett formulär så får du din egen anpassade bild skapad i farten. 
+|[Best free fonts](https://muffingroup.com/blog/best-free-fonts/)| Här hittar du bra tips på olika slags fonter som du kan välja att använda.
 
 
 ## Samhällen

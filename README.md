@@ -50,7 +50,7 @@
 
 
 ## Samhällen
->Samhällen för unity Developers
+>Olika slags Samhällen för unity Developers.
 
 | Assets  | Beskrivning |
 | ------------- | ------------- |

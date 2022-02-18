@@ -11,7 +11,7 @@
 - [Ikoner](#Ikoner)
 - [Fonter](#Fonter)
 - [Ljud](#Ljud)
-- [Pixel Art & verktyg](#PixelArt--verktyg)
+- [Pixel Art & verktyg](#Pixel-Art--verktyg)
 - [Textures & Tiles](#Textures--tiles)
 
 
@@ -107,5 +107,5 @@
 |[pixilart](https://www.pixilart.com/)| Pixilart är en sida för gratis pixel art.
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#Innehåll">↥ Back To Top</a></b>
 </div>

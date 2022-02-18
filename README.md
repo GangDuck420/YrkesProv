@@ -11,8 +11,8 @@
 - [Ikoner](#Ikoner)
 - [Fonter](#Fonter)
 - [Ljud](#Ljud)
-- [Pixel Art & verktyg](#Pixel Art & verktyg)
-- [Textures & Tiles](#Textures & Tiles)
+- [Pixel Art & verktyg](#PixelArtverktyg)
+- [Textures & Tiles](#TexturesTiles)
 
 
 ## Youtube Tutorials

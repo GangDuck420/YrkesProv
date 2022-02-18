@@ -7,7 +7,7 @@
 
 - [Youtube Tutorials](#Youtube-tutorials)
 - [Gratis Assets](#Gratis-assets)
-- [Communities](#communities)
+- [Samhällen](#Samhällen)
 - [Icons](#icons)
 
 

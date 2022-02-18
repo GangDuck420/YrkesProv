@@ -11,8 +11,8 @@
 - [Ikoner](#Ikoner)
 - [Fonter](#Fonter)
 - [Ljud](#Ljud)
-- [Pixel Art & verktyg](#PixelArtverktyg)
-- [Textures & Tiles](#TexturesTiles)
+- [Pixel Art & verktyg](#PixelArt & verktyg)
+- [Textures & Tiles](#Textures & Tiles)
 
 
 ## Youtube Tutorials
@@ -105,3 +105,7 @@
 |[Deviantart](https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453)| 420 gratis fina RPG pixelart ikoner.
 |[Grafx2](http://grafx2.chez.com/index.php?static3/downloads)| Grafx2 är ett väldigt simpelt pixelart verktyg, det är dessutom gratis!
 |[pixilart](https://www.pixilart.com/)| Pixilart är en sida för gratis pixel art.
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
